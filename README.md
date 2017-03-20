@@ -4,12 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Callback Functions
-	* Closure
-	* arguments array
-	* recursion
-	* prototype
-	* constructors
+	* Callback Functions - functions that are called as arguments to other functions
+	* Closure - when a callback function can access a variable or value that exists in its original scope but not in the scope where it was called
+	* arguments array - an array of values that are the arguments to a specific function
+	* recursion - when a function calls itself
+	* prototype - a special object created by a constructor function that serves as a template to create other objects with the same properties
+	* constructors - special functions that create prototypes & set their properties...names of constructors should have the first letter capitalized
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
